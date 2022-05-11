@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
 import static org.junit.Assert.*;
-
+//коммент
 @RunWith(Parameterized.class)
 @AllArgsConstructor
 public class OrderCreateTest {

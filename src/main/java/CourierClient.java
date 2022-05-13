@@ -2,7 +2,7 @@
 import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.given;
-
+//коммент
 public class CourierClient {
 
     public static String keysValue = null;
